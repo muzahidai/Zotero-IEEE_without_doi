@@ -1,0 +1,2 @@
+IEEE Style: L. Pan et al., “Variational Relational Point Completion Network for Robust 3D Classification,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 45, no. 9, pp. 11340–11351, Sep. 2023.
+Chinese Style: Pan L, Chen X, Cai Z, Zhang J, Zhao H, Yi S, Liu Z. Variational Relational Point Completion Network for Robust 3D Classification [J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023, Vol. 45, No. 9, pp. 11340–11351
